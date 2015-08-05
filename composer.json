@@ -1,5 +1,5 @@
 {
-    "name": "drupal/core",
-    "description": "Drupal is an open source content management platform powering millions of websites and applications.",
+    "name": "pantheon-systems/drupal-core",
+    "description": "Subtree split of drops-8 core directory.",
     "license": "GPL-2.0+"
 }
